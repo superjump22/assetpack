@@ -1,12 +1,12 @@
 {
-  "name": "@assetpack/core",
-  "version": "1.4.0",
+  "name": "@superjump/assetpack-core",
+  "version": "1.4.1",
   "keywords": [],
   "homepage": "https://pixijs.io/assetpack/",
   "bugs": "https://github.com/pixijs/assetpack/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pixijs/assetpack.git"
+    "url": "https://github.com/superjump22/assetpack"
   },
   "license": "MIT",
   "type": "module",
